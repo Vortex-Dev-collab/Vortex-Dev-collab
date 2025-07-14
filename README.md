@@ -9,10 +9,14 @@
 <hr style="border: none; height: 2px; background-color: #363029;" />
 
 <p align="center">
-  <strong>Discord Link :</strong> <a href="https://discord.gg/MqRuGWqrUC " target="_blank">discord.com/users/538819795886538762</a><br>
+  <strong>Discord Link :</strong> <a href="https://discord.gg/MqRuGWqrUC" target="_blank">https://discord.gg/MqRuGWqrUC</a><br>
   <strong>Discord User :</strong> <code>@only.bi9l</code><br>
   <strong>My Links :</strong> <a href="https://guns.lol/only.bi9l" target="_blank">guns.lol/only.bi9l</a><br>
-  <strong>Github :</strong> <a href="https://github.com/Vortex-Dev-collab" target="_blank">Vortex-Dev-collab</a>
+  <strong>Github :</strong> <a href="https://github.com/Vortex-Dev-collab" target="_blank">Vortex-Dev-collab</a><br>
+</p>
+
+<p align="center" style="font-weight: bold; font-size: 1.2em; margin-top: 10px;">
+  " 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲 𝐕𝐨𝐫𝐭è𝐱 "
 </p>
 
 <p align="center">
