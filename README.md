@@ -1,4 +1,4 @@
-<h1 align="center"𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐁𝐨𝐭𝐬 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h1>
+<h1 align="center">𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐁𝐨𝐭𝐬 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h1>
 
 <hr style="border: none; height: 2px; background-color: #363029;" />
 
