@@ -1,12 +1,12 @@
 <h1 align="center">𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐁𝐨𝐭𝐬 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h1>
 
-<hr style="border: none; height: 2px; background-color: #363029;" />
+<hr style="border: none; height: 2px; background-color: #391e11;" />
 
 <div align="center">
   <img src="https://i.postimg.cc/BbrYBtnY/IMG-2287.jpg" width="100%" style="border-radius: 10px; border: 1px solid #ccc;" />
 </div>
 
-<hr style="border: none; height: 2px; background-color: #363029;" />
+<hr style="border: none; height: 2px; background-color: #391e11;" />
 
 <p align="center">
   <strong>Discord Link :</strong> <a href="https://discord.gg/MqRuGWqrUC" target="_blank">https://discord.gg/MqRuGWqrUC</a><br>
