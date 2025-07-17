@@ -3,7 +3,7 @@
 <hr style="border: none; height: 2px; background-color: #363029;" />
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1116488519829967018/1392586648189141033/IMG_1753.png?ex=687601a1&is=6874b021&hm=7d0e526e12742a19799294998de182ed7ef69525dc89fa421d1090d0d4467a69&=&format=webp&quality=lossless&width=756&height=330" width="100%" style="border-radius: 10px; border: 1px solid #ccc;" />
+  <img src="https://i.postimg.cc/BbrYBtnY/IMG-2287.jpg" width="100%" style="border-radius: 10px; border: 1px solid #ccc;" />
 </div>
 
 <hr style="border: none; height: 2px; background-color: #363029;" />
