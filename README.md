@@ -3,7 +3,7 @@
 <hr style="border: none; height: 2px; background-color: #391e11;" />
 
 <div align="center">
-  <img src="https://i.postimg.cc/kgX52pfb/Vortex-banner-20.jpg" width="100%" style="border-radius: 10px; border: 1px solid #ccc;" />
+  <img src="https://i.postimg.cc/YCW3JGcr/Vortex-banner-24.jpg" width="100%" style="border-radius: 10px; border: 1px solid #ccc;" />
 </div>
 
 <hr style="border: none; height: 2px; background-color: #391e11;" />
