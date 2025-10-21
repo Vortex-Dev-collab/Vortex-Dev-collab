@@ -1,24 +1,50 @@
-<h1 align="center">𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐁𝐨𝐭𝐬 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h1>
-
-<hr style="border: none; height: 2px; background-color: #391e11;" />
-
-<div align="center">
-  <img src="https://i.postimg.cc/YCW3JGcr/Vortex-banner-24.jpg" width="100%" style="border-radius: 10px; border: 1px solid #ccc;" />
-</div>
-
-<hr style="border: none; height: 2px; background-color: #391e11;" />
+# 𝐇𝐞𝐥𝐥𝐨 , 𝐈𝐦 𝐕𝐨𝐫𝐭𝐞𝐱 𝐀𝐊𝐀 𝐒𝐚𝐢𝐟
 
 <p align="center">
-  <strong>Discord Link :</strong> <a href="https://discord.gg/MqRuGWqrUC" target="_blank">https://discord.gg/MqRuGWqrUC</a><br>
-  <strong>Discord User :</strong> <code>@only.bi9l</code><br>
-  <strong>My Links :</strong> <a href="https://guns.lol/only.bi9l" target="_blank">guns.lol/only.bi9l</a><br>
-  <strong>Github :</strong> <a href="https://github.com/Vortex-Dev-collab" target="_blank">Vortex-Dev-collab</a><br>
+  <img src="https://i.postimg.cc/tT4FGxPf/Vortex-banner-31.jpg" alt="Vortex Banner" width="800" />
 </p>
 
-<p align="center" style="font-weight: bold; font-size: 1.2em; margin-top: 10px;">
-  " 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲 𝐕𝐨𝐫𝐭è𝐱 "
-</p>
+# 𝑷𝒓𝒐𝒇𝒇𝒆𝒔𝒊𝒐𝒏𝒂𝒍 𝑭𝒖𝒍𝒍𝒔𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓   
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hriiss&style=flat-square" alt="Profile views"/>
-</p>
+---
+
+## 🔹 Languages & Frameworks
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### 🔹 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+## 🔹 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-4B0082?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+### 🔹 Authentication
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge)
+
+### 🔹 Additional Libraries
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge)
+![Moment.js](https://img.shields.io/badge/Moment.js-FFB600?style=for-the-badge)
+
+---
